@@ -1,9 +1,9 @@
-'''Python标准库''' 
+'''Python标准库有序字典''' 
 
 from collections import OrderedDict 
 
 # 有序字典
-favorite_languages = OrderedDict() 
+favorite_languages = OrderedDict()
 # print(favorite_languages)
 
 favorite_languages['jen'] = 'python'

@@ -33,7 +33,7 @@ def run_game():
     # bg_color = (135, 206, 250)
 
     # 创建一艘飞船
-    ship = Ship(screen)
+    ship = Ship(ai_settings, screen)
 
 
     # 开始游戏的主循环
@@ -49,6 +49,8 @@ def run_game():
         #     # 当玩家单机游戏窗口的关闭按钮时, 将检测到 pygame.QUIT 事件
         #     if event.type == pygame.QUIT:
         #         sys.exit()
+
+        ship.update() 
 
         gf.update_screen(ai_settings, screen, ship)
         # # 每次循环时都会重绘屏幕

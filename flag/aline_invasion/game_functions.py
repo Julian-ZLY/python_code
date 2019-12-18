@@ -10,6 +10,26 @@ import sys
 import pygame
 
 
+def check_keydown_events(event, ship): 
+    """
+    响应按键 
+    """ 
+    if event.key == pygame.K_RIGHT:
+        # ship.rect.centerx += 1
+        ship.moving_right = True 
+    elif event.key == pygame.K_LEFT: 
+        ship.moving_left = True 
+
+def check_keyup_events(event, ship): 
+    """ 
+    响应松开
+    """ 
+    if event.type == pygame.K_RIGHT: 
+        ship.moving_right = False
+    elif event.type == pygame.K_LEFT: 
+        slip.moving_left = False
+
+
 def check_event(ship):
     """
     响应按键和鼠标事件
@@ -26,8 +46,19 @@ def check_event(ship):
 
         elif event.type == pygame.KEYDOWN:
             # 向左移动飞船
+            # check_keydown_events(event, ship)
             if event.key == pygame.K_RIGHT:
-                ship.rect.centerx += 1
+                # ship.rect.centerx += 1
+                ship.moving_right = True 
+            elif event.key == pygame.K_LEFT: 
+                ship.moving_left = True 
+            
+        elif event.type == pygame.KEYUP: 
+            # check_keyup_events(event, ship) 
+            if event.type == pygame.K_RIGHT: 
+                ship.moving_right = False
+            elif event.type == pygame.K_LEFT: 
+                slip.moving_left = False  
 
 
 def update_screen(ai_settings, screen, ship):

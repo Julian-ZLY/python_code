@@ -11,10 +11,13 @@ class Settings():
         """
         初始化游戏的设置
         """
-        self.screen_width = 1000
-        self.screen_height = 700
+        self.screen_width = 900
+        self.screen_height = 500
         self.bg_color = (233, 233, 239)
         # self.bg_color = (169,169,169)
+
+        # 飞船的设置速度 
+        self.ship_speed_factor = 1.5 
 
 
 if __name__ == '__main__':

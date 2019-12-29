@@ -20,6 +20,7 @@ def check_keydown_events(event, ship):
     elif event.key == pygame.K_LEFT: 
         ship.moving_left = True 
 
+
 def check_keyup_events(event, ship): 
     """ 
     响应松开
@@ -27,7 +28,7 @@ def check_keyup_events(event, ship):
     if event.type == pygame.K_RIGHT: 
         ship.moving_right = False
     elif event.type == pygame.K_LEFT: 
-        slip.moving_left = False
+        ship.moving_left = False
 
 
 def check_event(ship):
@@ -53,12 +54,12 @@ def check_event(ship):
             elif event.key == pygame.K_LEFT: 
                 ship.moving_left = True 
             
-        elif event.type == pygame.KEYUP: 
-            # check_keyup_events(event, ship) 
-            if event.type == pygame.K_RIGHT: 
-                ship.moving_right = False
-            elif event.type == pygame.K_LEFT: 
-                slip.moving_left = False  
+        # elif event.type == pygame.KEYUP:
+        #     # check_keyup_events(event, ship)
+        #     if event.type == pygame.K_RIGHT:
+        #         ship.moving_right = False
+        #     elif event.type == pygame.K_LEFT:
+        #         ship.moving_left = False
 
 
 def update_screen(ai_settings, screen, ship):

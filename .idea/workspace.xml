@@ -1,0 +1,709 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="621ec8a7-cc9a-4a30-bf35-562ad36f8762" name="默认" comment="">
+      <change afterPath="$PROJECT_DIR$/flag/clawler/music/I_Forgot_That_You_Existed.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flag/clawler/music/《你曾是少年-焦迈奇》.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flag/clawler/music/《带你去旅行—校长》.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flag/clawler/music/二零三-毛不易.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flag/clawler/music/体面-于文文.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flag/clawler/music/你的酒馆对我打了烊-陈雪凝.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flag/clawler/music/只是没有如果-张靓颖.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flag/clawler/music/可能否-木小雅.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flag/clawler/music/后来-张智霖.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flag/clawler/music/听妈妈的话-周杰伦.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flag/clawler/music/告白气球-周杰伦.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flag/clawler/music/好想爱这个世界啊-华晨宇.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flag/clawler/music/平凡的一天-毛不易.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flag/clawler/music/我曾-隔壁老樊.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flag/clawler/music/无名之辈-陈雪燃.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flag/clawler/music/来不及-刘瑞琪.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flag/clawler/music/演员.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flag/clawler/music/爸爸妈妈-李荣浩.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flag/clawler/music/稻香-周杰伦.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flag/clawler/music/纸短情长-刘艺佳.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flag/clawler/music/纸短情长-烟把儿乐队.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flag/clawler/music/纸短情长-王贰浪.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flag/clawler/music/纸短情长-花粥.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flag/clawler/music/芒种.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flag/clawler/music/起风了-买辣椒也用券.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flag/clawler/music/起风了-吴青峰.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flag/clawler/music/路人.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flag/clawler/music/鸽子-徐秉龙.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flag/clawler/urllib_03_download_music.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learning_notes/2019/2019-11/code_01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learning_notes/2019/2019-11/code_02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learning_notes/2019/2019-11/code_03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learning_notes/2019/2019-11/code_04.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learning_notes/2019/2019-11/zk.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learning_notes/2019/2019-12/BIF.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learning_notes/2019/2019-12/class_Admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learning_notes/2019/2019-12/class_FiboracciNumber.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learning_notes/2019/2019-12/class_IceCreamStand.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learning_notes/2019/2019-12/class_MagicMethods.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learning_notes/2019/2019-12/class_MyTimer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learning_notes/2019/2019-12/class_Privileges.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learning_notes/2019/2019-12/class_Random.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learning_notes/2019/2019-12/class_Restaurant.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learning_notes/2019/2019-12/class_User.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learning_notes/2019/2019-12/favorite_languages.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learning_notes/2019/2019-12/hanoi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learning_notes/2019/2019-12/list_01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learning_notes/2019/2019-12/my_itchat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learning_notes/2019/2019-12/random_num.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learning_notes/2019/2019-12/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learning_notes/2020/re/re_01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learning_notes/2020/re/re_02_getIP.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/learning_notes/2020/re/source_web.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2019/2019-11/code_01.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2019/2019-11/code_02.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2019/2019-11/code_03.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2019/2019-11/code_04.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2019/2019-11/zk.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2019/2019-12/BIF.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2019/2019-12/class_Admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2019/2019-12/class_FiboracciNumber.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2019/2019-12/class_IceCreamStand.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2019/2019-12/class_MagicMethods.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2019/2019-12/class_MyTimer.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2019/2019-12/class_Privileges.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2019/2019-12/class_Random.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2019/2019-12/class_Restaurant.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2019/2019-12/class_User.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2019/2019-12/favorite_languages.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2019/2019-12/hanoi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2019/2019-12/list_01.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2019/2019-12/my_itchat.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2019/2019-12/random_num.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2019/2019-12/test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/flag/aline_invasion/game_functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/flag/aline_invasion/game_functions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flag/aline_invasion/ship.py" beforeDir="false" afterPath="$PROJECT_DIR$/flag/aline_invasion/ship.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/python_code$class_MyTimer.coverage" NAME="class_MyTimer Coverage Results" MODIFIED="1576994723728" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2019/2019-12" />
+    <SUITE FILE_PATH="coverage/python_code$urllib_03_download_music.coverage" NAME="urllib_03_download_music Coverage Results" MODIFIED="1577630288110" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/flag/clawler" />
+    <SUITE FILE_PATH="coverage/python_code$alien_invasion.coverage" NAME="alien_invasion Coverage Results" MODIFIED="1577510972580" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/flag/aline_invasion" />
+    <SUITE FILE_PATH="coverage/python_code$urllib_02.coverage" NAME="urllib_02 Coverage Results" MODIFIED="1577375207163" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/flag/clawler" />
+    <SUITE FILE_PATH="coverage/python_code$hanoi.coverage" NAME="hanoi Coverage Results" MODIFIED="1576423674559" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2019/2019-12" />
+    <SUITE FILE_PATH="coverage/python_code$favorite_languages.coverage" NAME="favorite_languages Coverage Results" MODIFIED="1576423527601" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2019/2019-12" />
+    <SUITE FILE_PATH="coverage/python_code$re_01.coverage" NAME="re_01 Coverage Results" MODIFIED="1577602562787" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learning_notes/2020/re" />
+    <SUITE FILE_PATH="coverage/python_code$re_02_getIP.coverage" NAME="re_02_getIP Coverage Results" MODIFIED="1577608138400" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learning_notes/2020/re" />
+    <SUITE FILE_PATH="coverage/python_code$urllib_01.coverage" NAME="urllib_01 Coverage Results" MODIFIED="1576992161078" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/flag/clawler" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/learning_notes/2020/re/re_01.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="313">
+              <caret line="54" column="13" lean-forward="true" selection-start-line="54" selection-start-column="13" selection-end-line="54" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/learning_notes/2020/re/re_02_getIP.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="263">
+              <caret line="36" column="121" selection-start-line="36" selection-start-column="121" selection-end-line="36" selection-end-column="121" />
+              <folding>
+                <element signature="e#14#40#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/flag/clawler/urllib_03_download_music.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="24">
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
+              <folding>
+                <element signature="e#38#48#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/learning_notes/2020/re/source_web.html">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="PUSH_TAGS">
+      <GitPushTagMode />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/flag/aline_invasion/settings.py" />
+        <option value="$PROJECT_DIR$/flag/aline_invasion/alien_invasion.py" />
+        <option value="$PROJECT_DIR$/flag/clawler/urllib_01.py" />
+        <option value="$PROJECT_DIR$/2019/2019-12/class_MyTimer.py" />
+        <option value="$PROJECT_DIR$/flag/clawler/urllib_02.py" />
+        <option value="$PROJECT_DIR$/flag/clawler/urllib_02_download_cat.py" />
+        <option value="$PROJECT_DIR$/flag/clawler/get_mp4.py" />
+        <option value="$PROJECT_DIR$/flag/aline_invasion/ship.py" />
+        <option value="$PROJECT_DIR$/flag/aline_invasion/game_functions.py" />
+        <option value="$PROJECT_DIR$/flag/clawler/urllib_03_download_music.py" />
+        <option value="$PROJECT_DIR$/learning_notes/2020/re/re_01.py" />
+        <option value="$PROJECT_DIR$/learning_notes/2020/re/re_02_getIP.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBowerSettings">
+    <node-interpreter value="project" />
+    <bower-package value="" />
+    <bower.json value="" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="添加" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="python_code" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python_code" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python_code" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python_code" type="462c0819:PsiDirectoryNode" />
+              <item name="learning_notes" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.tslint" value="" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.splitter.proportion" value="0.25296912" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings is-module-sdk="true">
+        <option name="myUseModuleSdk" value="true" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.urllib_03_download_music">
+    <configuration name="alien_invasion" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python_code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/flag/aline_invasion" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/flag/aline_invasion/alien_invasion.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="re_01" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python_code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/learning_notes/2020/re" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/learning_notes/2020/re/re_01.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="re_02_getIP" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python_code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/learning_notes/2020/re" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/learning_notes/2020/re/re_02_getIP.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="urllib_02" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python_code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/flag/clawler" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/flag/clawler/urllib_02_download_cat.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="urllib_03_download_music" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python_code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/flag/clawler" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/flag/clawler/urllib_03_download_music.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.urllib_03_download_music" />
+        <item itemvalue="Python.re_02_getIP" />
+        <item itemvalue="Python.re_01" />
+        <item itemvalue="Python.alien_invasion" />
+        <item itemvalue="Python.urllib_02" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="621ec8a7-cc9a-4a30-bf35-562ad36f8762" name="默认" comment="" />
+      <created>1576423383946</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576423383946</updated>
+      <workItem from="1576423385298" duration="8737000" />
+      <workItem from="1576771578122" duration="11307000" />
+      <workItem from="1577510336347" duration="14614000" />
+    </task>
+    <task id="LOCAL-00001" summary="学习笔记">
+      <created>1576424981188</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1576424981188</updated>
+    </task>
+    <task id="LOCAL-00002" summary="外星人入侵项目">
+      <created>1576604221196</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1576604221196</updated>
+    </task>
+    <task id="LOCAL-00003" summary="外星人入侵项目">
+      <created>1577366803957</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1577366803957</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="34658000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12088698" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32961586" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.2614622" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.28004956" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="调试" order="11" weight="0.3283767" />
+      <window_info anchor="bottom" id="Terminal" order="12" weight="0.3283767" />
+      <window_info anchor="bottom" id="Python Console" order="13" weight="0.32900432" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="学习笔记" />
+    <MESSAGE value="外星人入侵项目" />
+    <option name="LAST_COMMIT_MESSAGE" value="外星人入侵项目" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/urllib/parse.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="139">
+          <caret line="788" selection-start-line="788" selection-end-line="788" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/pygame/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1275">
+          <caret line="85" column="8" selection-start-line="85" selection-start-column="8" selection-end-line="85" selection-end-column="8" />
+          <folding>
+            <element signature="e#1166#1176#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2019/2019-12/hanoi.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="33" selection-start-line="13" selection-start-column="33" selection-end-line="13" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Library/Caches/PyCharm2018.3/python_stubs/-1199943127/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5">
+          <caret line="798" column="2" selection-start-line="798" selection-start-column="2" selection-end-line="798" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2019/2019-12/class_MyTimer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2019/2019-12/class_MagicMethods.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="29" column="14" selection-start-line="29" selection-start-column="14" selection-end-line="29" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flag/clawler/cat.jpg" />
+    <entry file="file://$PROJECT_DIR$/flag/clawler/cat/cat_02.jpg" />
+    <entry file="file://$PROJECT_DIR$/flag/clawler/cat/cat_01.jpg" />
+    <entry file="file://$PROJECT_DIR$/flag/clawler/cat/cat_1.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flag/clawler/cat/cat_2.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flag/clawler/cat/cat_3.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flag/clawler/cat/cat_4.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flag/clawler/cat/cat_6.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flag/clawler/cat/cat_5.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flag/clawler/cat/cat_7.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flag/clawler/cat/cat_8.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flag/clawler/cat/cat_9.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flag/clawler/cat/cat_10.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flag/clawler/cat/cat_11.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flag/clawler/cat/cat_12.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flag/clawler/cat/cat_14.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flag/clawler/cat/cat_15.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flag/clawler/cat/cat_16.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flag/clawler/cat/cat_17.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flag/clawler/cat/cat_18.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flag/clawler/cat/cat_19.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flag/clawler/cat/cat_20.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flag/clawler/cat/cat_21.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flag/clawler/cat/cat_22.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flag/clawler/cat/cat_23.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flag/clawler/cat/cat_24.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flag/clawler/cat/cat_25.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flag/clawler/cat/cat_26.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flag/clawler/cat/cat_27.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flag/clawler/cat/cat_28.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flag/clawler/cat/cat_29.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flag/clawler/cat/cat_30.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flag/clawler/crawl_lol_img.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flag/clawler/get_mp4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flag/aline_invasion/ship.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="33" column="25" selection-start-line="33" selection-start-column="18" selection-end-line="33" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flag/aline_invasion/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="38" selection-start-line="15" selection-start-column="38" selection-end-line="15" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flag/clawler/urllib_02_download_cat.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="6" selection-start-line="6" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/ssl.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="559" selection-start-line="559" selection-end-line="559" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flag/aline_invasion/alien_invasion.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="211">
+          <caret line="41" column="17" selection-start-line="41" selection-start-column="17" selection-end-line="41" selection-end-column="17" />
+          <folding>
+            <element signature="e#94#104#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flag/aline_invasion/game_functions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="47">
+          <caret line="33" column="4" selection-start-line="33" selection-start-column="4" selection-end-line="33" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flag/clawler/urllib_01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="47" selection-start-line="8" selection-start-column="47" selection-end-line="8" selection-end-column="47" />
+          <folding>
+            <element signature="e#25#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learning_notes/2020/re/source_web.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learning_notes/2020/re/re_01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="313">
+          <caret line="54" column="13" lean-forward="true" selection-start-line="54" selection-start-column="13" selection-end-line="54" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learning_notes/2020/re/re_02_getIP.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="263">
+          <caret line="36" column="121" selection-start-line="36" selection-start-column="121" selection-end-line="36" selection-end-column="121" />
+          <folding>
+            <element signature="e#14#40#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flag/clawler/urllib_03_download_music.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <element signature="e#38#48#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="Copyright.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
